@@ -1,0 +1,4 @@
+# Create a ship with failing secondary torpedo store
+GT4500,1,0,10,1
+TORPEDO,ALL  # should succeed because at least one was fired
+TORPEDO,ALL # should fail because once the good store is out of torpedos, the bad one will fire

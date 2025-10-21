@@ -1,0 +1,4 @@
+# Create a ship with an empty primary torpedo store
+GT4500,0,0,1,0
+TORPEDO,SINGLE # should fire because it's expected to fire the one with a content
+TORPEDO,SINGLE # shouldn't fire as it's empty

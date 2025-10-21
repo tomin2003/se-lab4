@@ -1,0 +1,5 @@
+# Create a ship with 3 primary torpedos and 5 secondary torpedos
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE # should fail only here
