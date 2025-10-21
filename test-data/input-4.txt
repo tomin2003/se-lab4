@@ -1,0 +1,4 @@
+# Create a ship with failing secondary torpedo store
+GT4500,10,0,10,1
+TORPEDO,SINGLE  # should have succeeded at first
+TORPEDO,SINGLE  # should have failed

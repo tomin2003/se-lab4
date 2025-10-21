@@ -1,0 +1,3 @@
+# Create a ship with empty torpedo stores that always fail
+GT4500,0,0,0,0
+TORPEDO,SINGLE # shouldn't have fired
